@@ -1,0 +1,4 @@
+Como rodar:
+python main.py
+python main.py --demo
+python -m unittest discover -s tests -v
